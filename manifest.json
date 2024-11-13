@@ -1,0 +1,22 @@
+{
+    "name": "Mi PWA Offline",
+    "short_name": "PWA Offline",
+    "description": "Una aplicacion web progresiva que funciona sin conexion",
+    "start_url":"./index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#007bff",
+    "orientation": "portrait",
+    "icons":[
+        {
+            "src": "./icons/rocky_badge_canine_patrol_paw_patrol_icon_263833.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "./icons/paw_patrol_badge_icon_263848.png",
+            "sizes": "512x512",
+            "type": "image/png"  
+        }
+    ]
+}
